@@ -1,6 +1,3 @@
 export default function Page() {
-    return 
-    <h1>
-      Testing Page
-    </h1>;
+    return <h1>Testing Page </h1>;
   }
